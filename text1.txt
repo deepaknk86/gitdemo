@@ -2,9 +2,5 @@ This is a test file edited in github
 this is in local
 ths is local change 2
 line 4
-<<<<<<< HEAD
 line 5
-=======
-
 line 6
->>>>>>> 500b9af65dc197fae04640380860ba0417f108e1
